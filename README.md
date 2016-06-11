@@ -32,8 +32,8 @@ Inspiring story distribution via web, mobile apps, social media, and tv.
 Node.js, NativeScript, Angular 2, Google App Engine, Google Cloud, Rethink DB
 
 ####**Github**
-Experiments in Concurrent Node.js [Link][4]
-Angular 1 Async Filter [Link][6]
+* Experiments in Concurrent Node.js [Link][4]
+* Angular 1 Async Filter [Link][6]
 
 ##What I’m looking to do next##
 I'm looking to join a team that encourages a healthy work/life balance while maintaining a high emphasis on excellent engineering with test driven development. I want to work for a company that provides great benefits and strives to create a great office culture or team family culture. I'm hoping to contribute to open source projects as a part of my job description. My aim is to team up with an employer that encourages self betterment and continuing education. I know a lot of things, and am really good at a lot of things, but there is still so much I want to learn. Things like concurrency, machine learning, big data science and disposable micro services are on my learning wish list. 
